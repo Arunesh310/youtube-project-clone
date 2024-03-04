@@ -21,3 +21,23 @@ nav {
   padding: 8px 12px;
   border-radius: 25px;
 }
+
+.nav-middle .search-box input {
+  width: 400px;
+  border: 0;
+  outline: 0;
+  background: transparent;
+}
+
+.nav-middle .search-box img {
+  width: 15px;
+}
+
+.nav-right img {
+  width: 25px;
+  margin-right: 25px;
+}
+.nav-right .user-icon {
+  width: 35px;
+  border-radius: 50%;
+}
