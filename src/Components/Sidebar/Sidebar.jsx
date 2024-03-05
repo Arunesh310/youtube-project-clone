@@ -57,6 +57,29 @@ const Sidebar = () => {
         </div>
         <hr />
       </div>
+      <div className="subscribed-list">
+        <h3>Subscribed</h3>
+        <div className="side-link">
+          <img src={jack} alt="" />
+          <p>Pewdipie</p>
+        </div>
+        <div className="side-link">
+          <img src={simon} alt="" />
+          <p>Mr. Beast</p>
+        </div>
+        <div className="side-link">
+          <img src={tom} alt="" />
+          <p>Justin Beiber</p>
+        </div>
+        <div className="side-link">
+          <img src={megan} alt="" />
+          <p>5-Minutes Craft</p>
+        </div>
+        <div className="side-link">
+          <img src={cameron} alt="" />
+          <p>Nas Daily</p>
+        </div>
+      </div>
     </div>
   );
 };
